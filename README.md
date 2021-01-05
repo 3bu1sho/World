@@ -31,10 +31,9 @@
 
 <1.CRUD>
 <2.例外処理>
-<3.デプロイ>
 <4.N+1>
 
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/1xV3_VVyORgg4Y-Vcxq30N65hypn3Xf-n6Aiewk0kAjI/edit#gid=0>
 
 ## 開発環境
 - OS：Linux(CentOS)
